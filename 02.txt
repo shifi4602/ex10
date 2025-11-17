@@ -1,1 +1,2 @@
 file2 text
+in file2
